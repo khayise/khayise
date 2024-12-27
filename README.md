@@ -3,13 +3,13 @@
 I am Andrii and I am a frontend developer. I’m passionate about coding and building projects that solve real-world problems. About me: 
   
 
-- 👨 24 y.o.  
+- 👨 24 y.o.
+    
+
+- 🧑‍💻 Frontend developer 
   
 
 - 🎓 Have a CS degree  
-  
-
-- 🧑‍💻 Currently working on my blog pet project on the Next.js  
   
 
 <br/>
