@@ -8,8 +8,6 @@ I am Andrii and I am a frontend developer. I’m passionate about coding and bui
 
 - 🧑‍💻 Frontend developer 
   
-
-- 🎓 Have a CS degree  
   
 
 <br/>
